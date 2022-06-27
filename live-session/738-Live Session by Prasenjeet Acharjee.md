@@ -1,2 +1,0 @@
-<h1>Live Session by Prasenjeet Acharjee</h1>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/P2m-3GjQI4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
